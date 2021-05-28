@@ -31,11 +31,16 @@ https://drive.google.com/drive/folders/1HkLLwXzC4tPIryB7razMID4x8SBMx9Mx
 |**Orginal**|**Degraded**|**CNN**|**GAN**|
 
 
+### Quality Metrics
+![](Outputs/Quality_metrics.png)
+
+
 ### Grey scale to Colorized
 
-|![](Outputs/Colorized/Orginal.png)|![](Outputs/Colorized/Grayscale.png)|![](Outputs/Colorized/Cnn.png)|![](Outputs/Colorized/Autoencoder.png)|
-|:---:|:---:|:---:|:---:|
-|**Orginal**|**Greyscale**|**CNN**|**Autoencoder**|
+|![](Outputs/Colorized/Orginal.png)|![](Outputs/Colorized/Grayscale.png)|![](Outputs/Colorized/Autoencoder.png)|
+|:---:|:---:|:---:|
+|**Orginal**|**Greyscale**|**Autoencoder**|
+
 
 
 
