@@ -32,7 +32,11 @@ https://drive.google.com/drive/folders/1HkLLwXzC4tPIryB7razMID4x8SBMx9Mx
 
 
 ### Quality Metrics
-![](Outputs/Quality_metrics.png)
+
+<p align="center">
+  <img width="460" height="300" src="Outputs/Quality/Quality_metrics.png">
+</p>
+
 
 
 ### Grey scale to Colorized
