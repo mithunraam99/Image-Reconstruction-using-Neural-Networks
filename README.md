@@ -26,14 +26,14 @@ https://drive.google.com/drive/folders/1HkLLwXzC4tPIryB7razMID4x8SBMx9Mx
 
 ### Low Quality to High Quality
 
-|![]()|![]()|![]()|![]()|
+|![](Outputs/Quality/Orginal.png)|![](Outputs/Quality/Degraded.png)|![](Outputs/Quality/CNN.png)|![](Outputs/Quality/GAN.png)|
 |:---:|:---:|:---:|:---:|
 |**Orginal**|**Degraded**|**CNN**|**GAN**|
 
 
 ### Grey scale to Colorized
 
-|![]()|![]()|![]()|![]()|
+|![](Outputs/Colorized/Orginal.png)|![](Outputs/Colorized/Grayscale.png)|![](Outputs/Colorized/CNN.png)|![](Outputs/Colorized/Autoencoder.png)|
 |:---:|:---:|:---:|:---:|
 |**Orginal**|**Greyscale**|**CNN**|**Autoencoder**|
 
